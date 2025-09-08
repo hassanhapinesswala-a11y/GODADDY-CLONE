@@ -1,0 +1,16 @@
+21-Aug-2025 13:24:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/customer/www/rsoa165.millioncoders.net/public_html/GODADDY CLONE/login.php:9
+Stack trace:
+#0 /home/customer/www/rsoa165.millioncoders.net/public_html/GODADDY CLONE/login.php(9): mysqli->prepare('SELECT id, pass...')
+#1 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/GODADDY CLONE/login.php on line 9
+[22-Aug-2025 11:43:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/customer/www/rsoa165.millioncoders.net/public_html/GODADDY CLONE/login.php:9
+Stack trace:
+#0 /home/customer/www/rsoa165.millioncoders.net/public_html/GODADDY CLONE/login.php(9): mysqli->prepare('SELECT id, pass...')
+#1 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/GODADDY CLONE/login.php on line 9
+[23-Aug-2025 02:37:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/customer/www/rsoa165.millioncoders.net/public_html/GODADDY CLONE/login.php:9
+Stack trace:
+#0 /home/customer/www/rsoa165.millioncoders.net/public_html/GODADDY CLONE/login.php(9): mysqli->prepare('SELECT id, pass...')
+#1 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/GODADDY CLONE/login.php on line 9
+ 
